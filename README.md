@@ -9,3 +9,5 @@ Análisis de los listados publicados por Forbes en 2022
  Utilizan los datos financieros de los últimos 12 meses disponibles al 22 de abril de 2022 para calcular las métricas utilizadas para su clasificación.
 
 2. Forbes elabora una listado de multimillonarios anualmente, utilizando los precios de sus acciones y los tipos de cambio del 11 de marzo de 2022 para calcular el patrimonio neto.
+
+Puedes ver el Notebook con el análisis completo y la app creada en Sreamlit.
