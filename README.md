@@ -15,7 +15,7 @@ Análisis de los listados publicados por Forbes en 2022
 Datos obtenidos: (http://forbes.com)
 
 # Contenido Repositorio
-- Puedes ver la fuente de los datos y los requerimientos, un Overview de los datos generado a través de Pandas Profiling en Html, el Notebook con el análisis completo y la app creada en Sreamlit. 
+- Puedes ver la fuente de los datos y los requerimientos, un Overview de los datos generado a través de Pandas Profiling en Html, el Notebook con el análisis completo y la app creada en Streamlit. 
 
 # Resumen Contenido
 
