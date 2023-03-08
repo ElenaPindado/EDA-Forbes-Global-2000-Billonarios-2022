@@ -40,6 +40,9 @@ Datos obtenidos: (http://forbes.com)
 # Gráficos interactivos creados con Plotly 
 <img width="758" alt="plotly" src="https://user-images.githubusercontent.com/123492666/221612147-2a3e4e00-d201-4df4-a545-682641616e50.png">
 
+# App creada con Streamlit
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/123492666/223776317-c967bd13-f6a0-4226-9226-231751b18775.png">
+
 # Dashboard desarrollado con Data Studio
 <img width="502" alt="Captura de pantalla forbes" src="https://user-images.githubusercontent.com/123492666/223766659-38d35350-201a-46ad-815e-10a11e1ea096.png">
 Puedes ver este Dashboard completo en el siguiente enlace: https://lookerstudio.google.com/reporting/cb194ce6-b04e-46f8-9598-6b9dd516646e 
