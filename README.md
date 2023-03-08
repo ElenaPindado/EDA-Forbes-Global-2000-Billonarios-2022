@@ -45,7 +45,8 @@ Datos obtenidos: (http://forbes.com)
 
 # Dashboard desarrollado con Data Studio
 <img width="502" alt="Captura de pantalla forbes" src="https://user-images.githubusercontent.com/123492666/223766659-38d35350-201a-46ad-815e-10a11e1ea096.png">
-Puedes ver este Dashboard completo en el siguiente enlace: https://lookerstudio.google.com/reporting/cb194ce6-b04e-46f8-9598-6b9dd516646e 
+Puedes ver este Dashboard completo en el siguiente enlace: 
+https://lookerstudio.google.com/reporting/cb194ce6-b04e-46f8-9598-6b9dd516646e 
 
 
 
