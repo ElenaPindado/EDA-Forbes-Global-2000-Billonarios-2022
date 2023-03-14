@@ -10,13 +10,13 @@ Análisis de los listados publicados por Forbes en 2022
 
 2. Forbes elabora una listado de multimillonarios anualmente, utilizando los precios de sus acciones y los tipos de cambio del 11 de marzo de 2022 para calcular el patrimonio neto.
 
-- Análisis desarrollado a través de Python, visualización y DataStoryTelling a través de varias librerías (Matplotlib, Seaborn, Plotly) y Dashboard final creado con Data Studio ofreciendo un panel de control para un análisis más rápido y útil para el usuario.
+- Análisis desarrollado a través de Python, visualización y DataStoryTelling a través de varias librerías (Matplotlib, Seaborn, Plotly), App creada en Streamlit y Dashboard final creado con Data Studio a través de consultas SQL , ofreciendo un panel de control para un análisis más rápido y útil para el usuario.
 
 # Data
 Datos obtenidos: (http://forbes.com)
 
 # Contenido Repositorio
-- Puedes ver la fuente de los datos y los requerimientos, un Overview de los datos generado a través de Pandas Profiling en Html, el Notebook con el análisis completo, la app creada en Streamlit y el Dashboard final desarrollado con Data Studio. 
+- Puedes ver la fuente de los datos y los requerimientos, un Overview de los datos generado a través de Pandas Profiling en Html, el Notebook con el análisis completo, la app creada en Streamlit y el Dashboard final desarrollado con Data Studio y la consulta en SQL realizada en Big Query.  
 
 # Resumen Contenido
 
