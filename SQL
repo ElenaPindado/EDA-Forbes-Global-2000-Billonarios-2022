@@ -1,0 +1,22 @@
+CREATE OR REPLACE TABLE bootcamp-377610.Forbes.Global AS 
+
+SELECT '2018' Year, 
+* 
+FROM bootcamp-377610.Forbes.Global2018
+UNION ALL
+
+SELECT '2019' Year, 
+* 
+FROM bootcamp-377610.Forbes.Global2019
+UNION ALL
+SELECT '2020' Year, 
+* 
+FROM bootcamp-377610.Forbes.Global2020
+UNION ALL
+SELECT '2021' Year, 
+* 
+FROM bootcamp-377610.Forbes.Global2021
+UNION ALL
+SELECT '2022' Year, 
+* 
+FROM bootcamp-377610.Forbes.Global2022
