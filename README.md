@@ -31,7 +31,7 @@ Datos obtenidos: (http://forbes.com)
 # Gráficos creados a través de Matplotlib 
 ![toppaises](https://user-images.githubusercontent.com/123492666/221610812-07fa025b-d20b-4d33-b734-87b516e6cf3e.png)
 
-# Graficos de regresión creados con Seaborn
+# Gráficos de regresión creados con Seaborn
 ![regresion](https://user-images.githubusercontent.com/123492666/221611729-35657726-e3f2-4b2d-bc9c-1df860600a7a.png)
 
 # Gráficos de correlación de variables 
